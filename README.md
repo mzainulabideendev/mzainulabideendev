@@ -9,15 +9,15 @@
 <div align="left">
 
 <img src="https://camo.githubusercontent.com/e832af8144482d61654e53896abd6c2d1fecc67ef39663b8fceac43a2e38adcc/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f456a4857706956494f475854356c396d2f67697068792e676966"
-  alt="Coding Animation"
-  width="200"/>
+     alt="Coding Animation"
+     width="200"/>
 
 </div>
 
-👨‍💻 Hi, I’m M Zain Ul Abideen!
-⚡ Code, Coffee, Create
-🌐 Full-Stack Explorer
-🛠️ Building the future, one commit at a time
+👨‍💻 Hi, I’m M Zain Ul Abideen!  
+⚡ Code, Coffee, Create  
+🌐 Full-Stack Explorer  
+🛠️ Building the future, one commit at a time  
 
 ### 👾 My Journey Begins with "Hello World!"
 
