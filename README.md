@@ -16,6 +16,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00ABF0,100:0D1117&height=3&section=footer" width="100%" alt="" />
 
+
 ## 💫 About Me
 
 <table>
@@ -42,6 +43,9 @@ I build across the stack and ship to real stores, not just repositories.
 <td width="42%" valign="top" align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Coding" />
+<img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="100%" alt="Coding" />
+
+
 
 </td>
 </tr>
