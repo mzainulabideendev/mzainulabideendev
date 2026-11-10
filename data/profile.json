@@ -1,0 +1,30 @@
+{
+  "name": "M Zain Ul Abideen",
+  "fullName": "Muhammad Zain Ul Abideen",
+  "username": "mzainulabideendev",
+  "roles": ["Full-Stack Developer", ".NET Specialist", "Published Author", "App & Extension Builder"],
+  "pitch": "I build across the stack and ship to real stores, not just repositories.",
+  "location": "Sahiwal, Pakistan",
+  "company": "Vector-OS",
+  "repos": 74,
+  "followers": 4,
+  "following": 4,
+  "stores": 4,
+  "bookPlatforms": 11,
+  "articles": 5,
+  "links": [
+    { "key": "website", "label": "Portfolio", "handle": "mzainulabideen.vercel.app", "url": "https://mzainulabideen.vercel.app/" },
+    { "key": "linkedin", "label": "LinkedIn", "handle": "muhammad-zain-ul-abideen", "url": "https://www.linkedin.com/in/muhammad-zain-ul-abideen-3798ba428" },
+    { "key": "instagram", "label": "Instagram", "handle": "@m.zainulabideenofficial", "url": "https://www.instagram.com/m.zainulabideenofficial" },
+    { "key": "devto", "label": "DEV Community", "handle": "zainulabdeenofficial", "url": "https://dev.to/zainulabdeenofficial" },
+    { "key": "vsmarket", "label": "VS Marketplace", "handle": "MZainUlAbideen", "url": "https://marketplace.visualstudio.com/publishers/MZainUlAbideen" },
+    { "key": "facebook", "label": "Facebook", "handle": "M.ZainulAbdeenoffical.pk", "url": "https://www.facebook.com/M.ZainulAbdeenoffical.pk" }
+  ],
+  "articles_list": [
+    { "title": "Google Play's Broken Promise: Why Honest Developers Wait Weeks While Scam Apps Still Reach Millions", "url": "https://dev.to/zainulabdeenofficial/google-plays-broken-promise-why-honest-developers-wait-weeks-while-scam-apps-still-reach-millions-1hgl" },
+    { "title": "Why You Should Keep Multiple Backups of Your Code (Don't Rely Only on GitHub)", "url": "https://dev.to/zainulabdeenofficial/why-you-should-keep-multiple-backups-of-your-code-dont-rely-only-on-github-2j90" },
+    { "title": "The Things I Wish I Knew Before Writing My First 10,000 Lines of Code", "url": "https://dev.to/zainulabdeenofficial/the-things-i-wish-i-knew-before-writing-my-first-10000-lines-of-code-53pf" },
+    { "title": "Why Every Beginner Coder Should Read \"Logic\" by M Zain Ul Abideen", "url": "https://dev.to/zainulabdeenofficial/why-every-beginner-coder-should-read-logic-by-m-zain-ul-abideen-81g" },
+    { "title": "How I Solve Any Programming Problem (And You Can Too!)", "url": "https://dev.to/zainulabdeenofficial/how-i-solve-any-programming-problem-and-you-can-too-4bj4" }
+  ]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "GitHub-Streak-Card",
+    "stars": 24,
+    "lang": "TypeScript",
+    "desc": "Showcase GitHub streaks, contributions and developer stats with customisable cards."
+  },
+  {
+    "name": "Devforge",
+    "stars": 0,
+    "lang": "Kotlin",
+    "desc": "Mobile toolkit for developers: API tester, code editor, JSON tools, regex playground, GitHub explorer, AI assistant."
+  },
+  {
+    "name": "Data-Structures-and-Algorithms-C-Sharp-",
+    "stars": 0,
+    "lang": "C#",
+    "desc": "Core data structures and algorithms in C# for learning and practice."
+  },
+  {
+    "name": "react",
+    "stars": null,
+    "lang": "JavaScript",
+    "desc": "Modern React app bootstrapped with Vite: HMR, modular components, optimised builds."
+  },
+  {
+    "name": "dotnet-core-authentication",
+    "stars": null,
+    "lang": "C#",
+    "desc": "Production-ready authentication and authorization on .NET Core 10.0."
+  },
+  {
+    "name": "GameHub",
+    "stars": 0,
+    "lang": "C#",
+    "desc": "Full-stack game marketplace: ASP.NET Core 10, Angular 20, Clean Architecture, JWT, admin dashboard."
+  }
+]
