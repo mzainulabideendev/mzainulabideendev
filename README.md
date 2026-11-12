@@ -16,11 +16,11 @@
 | Project | What it does | Language | Stars |
 | --- | --- | --- | --- |
 | [**Universal-AI-Game-Studio**](https://github.com/mzainulabideendev/Universal-AI-Game-Studio) | Universal AI Game Studio helps an AI coding agent work like a small game team: understand a game's requirements, inspect | Python | 35 |
-| [**GitHub-Streak-Card**](https://github.com/mzainulabideendev/GitHub-Streak-Card) | 🔥 GitHub Streak Card – Track your coding journey in style! A powerful tool to showcase your GitHub streaks, contributio | TypeScript | 24 |
+| [**GitHub-Streak-Card**](https://github.com/mzainulabideendev/GitHub-Streak-Card) | 🔥 GitHub Streak Card – Track your coding journey in style! A powerful tool to showcase your GitHub streaks, contributio | TypeScript | 23 |
 | [**Retro-TV**](https://github.com/mzainulabideendev/Retro-TV) | Watch Classic Television — a nostalgic, CRT-styled Flutter app that brings back the feeling of tuning in to an old telev | Dart | 1 |
 | [**One_Post**](https://github.com/mzainulabideendev/One_Post) | OnePost is a Flutter app for preparing social posts, managing drafts, and organizing connected publishing accounts. The  | Dart | 1 |
+| [**mzainulabideendev_portfolio**](https://github.com/mzainulabideendev/mzainulabideendev_portfolio) | A modern, responsive Angular-based portfolio web application with 3D animations and an admin panel for managing content | TypeScript | 0 |
 | [**visual-studio**](https://github.com/mzainulabideendev/visual-studio) | A working, local recreation of the Visual Studio 2026 shell — Electron + React + Monaco on the front, a small Express ba | TypeScript | 0 |
-| [**ZainulabdeenOfficial**](https://github.com/mzainulabideendev/ZainulabdeenOfficial) | read me md old profile | Docs | 0 |
 
 More on my [repositories tab](https://github.com/mzainulabideendev?tab=repositories).
 

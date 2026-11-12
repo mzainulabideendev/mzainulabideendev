@@ -7,7 +7,7 @@
   },
   {
     "name": "GitHub-Streak-Card",
-    "stars": 24,
+    "stars": 23,
     "lang": "TypeScript",
     "desc": "🔥 GitHub Streak Card – Track your coding journey in style! A powerful tool to showcase your GitHub streaks, contributio"
   },
@@ -24,15 +24,15 @@
     "desc": "OnePost is a Flutter app for preparing social posts, managing drafts, and organizing connected publishing accounts. The "
   },
   {
+    "name": "mzainulabideendev_portfolio",
+    "stars": 0,
+    "lang": "TypeScript",
+    "desc": "A modern, responsive Angular-based portfolio web application with 3D animations and an admin panel for managing content"
+  },
+  {
     "name": "visual-studio",
     "stars": 0,
     "lang": "TypeScript",
     "desc": "A working, local recreation of the Visual Studio 2026 shell — Electron + React + Monaco on the front, a small Express ba"
-  },
-  {
-    "name": "ZainulabdeenOfficial",
-    "stars": 0,
-    "lang": "Docs",
-    "desc": "read me md old profile"
   }
 ]
