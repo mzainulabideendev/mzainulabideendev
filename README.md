@@ -30,7 +30,15 @@ More on my [repositories tab](https://github.com/mzainulabideendev?tab=repositor
 - [Why You Should Keep Multiple Backups of Your Code (Don't Rely Only on GitHub)](https://dev.to/zainulabdeenofficial/why-you-should-keep-multiple-backups-of-your-code-dont-rely-only-on-github-2j90)
 - [The Things I Wish I Knew Before Writing My First 10,000 Lines of Code](https://dev.to/zainulabdeenofficial/the-things-i-wish-i-knew-before-writing-my-first-10000-lines-of-code-53pf)
 - [Why Every Beginner Coder Should Read "Logic" by M Zain Ul Abideen](https://dev.to/zainulabdeenofficial/why-every-beginner-coder-should-read-logic-by-m-zain-ul-abideen-81g)
-- [How I Solve Any Programming Problem (And You Can Too!)](https://dev.to/zainulabdeenofficial/how-i-solve-any-programming-problem-and-you-can-too-4bj4)
+- [How I Solve Any Programming Problem (And You Can Too!)](https://dev.to/zainulabdeenofficial/how-i-solve-any-programming-problem-and-you-can-too-4bj4)-
+
+##  GitHub Contribution Streak
+
+<div align="center">
+
+![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=mzainulabideendev&theme=%7B%22backgroundColor%22%3A%22%230d0e16%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%23a78bfa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2322d3ee%22%2C%22streakColor%22%3A%22%23f472b6%22%7D)
+
+</div>
 
 ## Contributions, as a city at night
 
