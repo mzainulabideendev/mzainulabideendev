@@ -133,28 +133,28 @@ text{text-rendering:geometricPrecision}
 <text class="m" x="444" y="286" font-size="10" fill="#8b90aa">Python</text>
 <rect x="614" y="256" width="218" height="20" rx="10" fill="#fff" fill-opacity=".05"/>
 <rect x="614" y="256" width="218" height="20" rx="10" fill="#22d3ee" fill-opacity=".92"><animate attributeName="width" values="0;0;218" keyTimes="0;0.375;1" dur="1.6s" begin="0s" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" fill="freeze"/></rect>
-<text class="mb" x="842" y="271" font-size="13" fill="#e8eaf6">35<animate attributeName="x" values="624;624;842" keyTimes="0;0.375;1" dur="1.6s" begin="0s" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" fill="freeze"/></text>
+<text class="mb" x="842" y="271" font-size="13" fill="#e8eaf6">36<animate attributeName="x" values="624;624;842" keyTimes="0;0.375;1" dur="1.6s" begin="0s" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" fill="freeze"/></text>
 </g>
 <g class="slideL" style="animation-delay:0.6s">
 <text class="b" x="444" y="323" font-size="13" fill="#e8eaf6">GitHub-Streak-Card</text>
 <text class="m" x="444" y="340" font-size="10" fill="#8b90aa">TypeScript</text>
 <rect x="614" y="310" width="218" height="20" rx="10" fill="#fff" fill-opacity=".05"/>
-<rect x="614" y="310" width="143.26" height="20" rx="10" fill="#22d3ee" fill-opacity=".92"><animate attributeName="width" values="0;0;143.26" keyTimes="0;0.4186;1" dur="1.72s" begin="0s" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" fill="freeze"/></rect>
-<text class="mb" x="767.26" y="325" font-size="13" fill="#e8eaf6">23<animate attributeName="x" values="624;624;767.26" keyTimes="0;0.4186;1" dur="1.72s" begin="0s" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" fill="freeze"/></text>
+<rect x="614" y="310" width="139.28" height="20" rx="10" fill="#22d3ee" fill-opacity=".92"><animate attributeName="width" values="0;0;139.28" keyTimes="0;0.4186;1" dur="1.72s" begin="0s" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" fill="freeze"/></rect>
+<text class="mb" x="763.28" y="325" font-size="13" fill="#e8eaf6">23<animate attributeName="x" values="624;624;763.28" keyTimes="0;0.4186;1" dur="1.72s" begin="0s" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" fill="freeze"/></text>
 </g>
 <g class="slideL" style="animation-delay:0.7s">
 <text class="b" x="444" y="377" font-size="13" fill="#e8eaf6">Retro-TV</text>
 <text class="m" x="444" y="394" font-size="10" fill="#8b90aa">Dart</text>
 <rect x="614" y="364" width="218" height="20" rx="10" fill="#fff" fill-opacity=".05"/>
-<rect x="614" y="364" width="6.23" height="20" rx="10" fill="#22d3ee" fill-opacity=".92"><animate attributeName="width" values="0;0;6.23" keyTimes="0;0.4565;1" dur="1.84s" begin="0s" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" fill="freeze"/></rect>
-<text class="mb" x="630.23" y="379" font-size="13" fill="#e8eaf6">1<animate attributeName="x" values="624;624;630.23" keyTimes="0;0.4565;1" dur="1.84s" begin="0s" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" fill="freeze"/></text>
+<rect x="614" y="364" width="6.06" height="20" rx="10" fill="#22d3ee" fill-opacity=".92"><animate attributeName="width" values="0;0;6.06" keyTimes="0;0.4565;1" dur="1.84s" begin="0s" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" fill="freeze"/></rect>
+<text class="mb" x="630.06" y="379" font-size="13" fill="#e8eaf6">1<animate attributeName="x" values="624;624;630.06" keyTimes="0;0.4565;1" dur="1.84s" begin="0s" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" fill="freeze"/></text>
 </g>
 <g class="slideL" style="animation-delay:0.8s">
 <text class="b" x="444" y="431" font-size="13" fill="#e8eaf6">One_Post</text>
 <text class="m" x="444" y="448" font-size="10" fill="#8b90aa">Dart</text>
 <rect x="614" y="418" width="218" height="20" rx="10" fill="#fff" fill-opacity=".05"/>
-<rect x="614" y="418" width="6.23" height="20" rx="10" fill="#22d3ee" fill-opacity=".92"><animate attributeName="width" values="0;0;6.23" keyTimes="0;0.4898;1" dur="1.96s" begin="0s" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" fill="freeze"/></rect>
-<text class="mb" x="630.23" y="433" font-size="13" fill="#e8eaf6">1<animate attributeName="x" values="624;624;630.23" keyTimes="0;0.4898;1" dur="1.96s" begin="0s" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" fill="freeze"/></text>
+<rect x="614" y="418" width="6.06" height="20" rx="10" fill="#22d3ee" fill-opacity=".92"><animate attributeName="width" values="0;0;6.06" keyTimes="0;0.4898;1" dur="1.96s" begin="0s" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" fill="freeze"/></rect>
+<text class="mb" x="630.06" y="433" font-size="13" fill="#e8eaf6">1<animate attributeName="x" values="624;624;630.06" keyTimes="0;0.4898;1" dur="1.96s" begin="0s" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" fill="freeze"/></text>
 </g>
 <g class="slideL" style="animation-delay:0.9s">
 <text class="b" x="444" y="485" font-size="13" fill="#e8eaf6">mzainulabideendev_po…</text>

@@ -15,7 +15,7 @@
 
 | Project | What it does | Language | Stars |
 | --- | --- | --- | --- |
-| [**Universal-AI-Game-Studio**](https://github.com/mzainulabideendev/Universal-AI-Game-Studio) | Universal AI Game Studio helps an AI coding agent work like a small game team: understand a game's requirements, inspect | Python | 35 |
+| [**Universal-AI-Game-Studio**](https://github.com/mzainulabideendev/Universal-AI-Game-Studio) | Universal AI Game Studio helps an AI coding agent work like a small game team: understand a game's requirements, inspect | Python | 36 |
 | [**GitHub-Streak-Card**](https://github.com/mzainulabideendev/GitHub-Streak-Card) | 🔥 GitHub Streak Card – Track your coding journey in style! A powerful tool to showcase your GitHub streaks, contributio | TypeScript | 23 |
 | [**Retro-TV**](https://github.com/mzainulabideendev/Retro-TV) | Watch Classic Television — a nostalgic, CRT-styled Flutter app that brings back the feeling of tuning in to an old telev | Dart | 1 |
 | [**One_Post**](https://github.com/mzainulabideendev/One_Post) | OnePost is a Flutter app for preparing social posts, managing drafts, and organizing connected publishing accounts. The  | Dart | 1 |
@@ -30,15 +30,7 @@ More on my [repositories tab](https://github.com/mzainulabideendev?tab=repositor
 - [Why You Should Keep Multiple Backups of Your Code (Don't Rely Only on GitHub)](https://dev.to/zainulabdeenofficial/why-you-should-keep-multiple-backups-of-your-code-dont-rely-only-on-github-2j90)
 - [The Things I Wish I Knew Before Writing My First 10,000 Lines of Code](https://dev.to/zainulabdeenofficial/the-things-i-wish-i-knew-before-writing-my-first-10000-lines-of-code-53pf)
 - [Why Every Beginner Coder Should Read "Logic" by M Zain Ul Abideen](https://dev.to/zainulabdeenofficial/why-every-beginner-coder-should-read-logic-by-m-zain-ul-abideen-81g)
-- [How I Solve Any Programming Problem (And You Can Too!)](https://dev.to/zainulabdeenofficial/how-i-solve-any-programming-problem-and-you-can-too-4bj4)-
-
-##  GitHub Contribution Streak
-
-<div align="center">
-
-![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=mzainulabideendev&theme=%7B%22backgroundColor%22%3A%22%230d0e16%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%23a78bfa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2322d3ee%22%2C%22streakColor%22%3A%22%23f472b6%22%7D)
-
-</div>
+- [How I Solve Any Programming Problem (And You Can Too!)](https://dev.to/zainulabdeenofficial/how-i-solve-any-programming-problem-and-you-can-too-4bj4)
 
 ## Contributions, as a city at night
 
