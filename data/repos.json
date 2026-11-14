@@ -1,7 +1,7 @@
 [
   {
     "name": "Universal-AI-Game-Studio",
-    "stars": 36,
+    "stars": 40,
     "lang": "Python",
     "desc": "Universal AI Game Studio helps an AI coding agent work like a small game team: understand a game's requirements, inspect"
   },
@@ -24,15 +24,15 @@
     "desc": "OnePost is a Flutter app for preparing social posts, managing drafts, and organizing connected publishing accounts. The "
   },
   {
+    "name": "TraceForge-AI",
+    "stars": 0,
+    "lang": "C#",
+    "desc": "Turn security evidence into actionable defensive intelligence.  TraceForge AI is an open-source cybersecurity investigat"
+  },
+  {
     "name": "mzainulabideendev_portfolio",
     "stars": 0,
     "lang": "TypeScript",
     "desc": "A modern, responsive Angular-based portfolio web application with 3D animations and an admin panel for managing content"
-  },
-  {
-    "name": "visual-studio",
-    "stars": 0,
-    "lang": "TypeScript",
-    "desc": "A working, local recreation of the Visual Studio 2026 shell — Electron + React + Monaco on the front, a small Express ba"
   }
 ]
