@@ -1,7 +1,7 @@
 [
   {
     "name": "Universal-AI-Game-Studio",
-    "stars": 49,
+    "stars": 48,
     "lang": "Python",
     "desc": "Universal AI Game Studio helps an AI coding agent work like a small game team: understand a game's requirements, inspect"
   },
@@ -10,6 +10,12 @@
     "stars": 23,
     "lang": "TypeScript",
     "desc": "🔥 GitHub Streak Card – Track your coding journey in style! A powerful tool to showcase your GitHub streaks, contributio"
+  },
+  {
+    "name": "Universal-AI-Prompt-Engineer",
+    "stars": 16,
+    "lang": "TypeScript",
+    "desc": "Turn rough prompts into professional, review-ready instructions for AI coding agents — without leaving VS Code."
   },
   {
     "name": "Retro-TV",
@@ -28,11 +34,5 @@
     "stars": 0,
     "lang": "Dart",
     "desc": "Flutter Practice – A collection of Flutter projects and exercises to enhance mobile app development skills. This reposit"
-  },
-  {
-    "name": "TraceForge-AI",
-    "stars": 0,
-    "lang": "C#",
-    "desc": "Turn security evidence into actionable defensive intelligence.  TraceForge AI is an open-source cybersecurity investigat"
   }
 ]
