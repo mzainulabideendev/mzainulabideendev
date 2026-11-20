@@ -6,16 +6,16 @@
     "desc": "Universal AI Game Studio helps an AI coding agent work like a small game team: understand a game's requirements, inspect"
   },
   {
+    "name": "Universal-AI-Prompt-Engineer",
+    "stars": 47,
+    "lang": "TypeScript",
+    "desc": "Turn rough prompts into professional, review-ready instructions for AI coding agents — without leaving VS Code."
+  },
+  {
     "name": "GitHub-Streak-Card",
     "stars": 23,
     "lang": "TypeScript",
     "desc": "🔥 GitHub Streak Card – Track your coding journey in style! A powerful tool to showcase your GitHub streaks, contributio"
-  },
-  {
-    "name": "Universal-AI-Prompt-Engineer",
-    "stars": 16,
-    "lang": "TypeScript",
-    "desc": "Turn rough prompts into professional, review-ready instructions for AI coding agents — without leaving VS Code."
   },
   {
     "name": "Retro-TV",
