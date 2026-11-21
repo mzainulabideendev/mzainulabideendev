@@ -1,19 +1,19 @@
 [
   {
     "name": "Universal-AI-Prompt-Engineer",
-    "stars": 48,
+    "stars": 47,
     "lang": "TypeScript",
     "desc": "Turn rough prompts into professional, review-ready instructions for AI coding agents — without leaving VS Code."
   },
   {
     "name": "Universal-AI-Game-Studio",
-    "stars": 48,
+    "stars": 47,
     "lang": "Python",
     "desc": "Universal AI Game Studio helps an AI coding agent work like a small game team: understand a game's requirements, inspect"
   },
   {
     "name": "GitHub-Streak-Card",
-    "stars": 23,
+    "stars": 22,
     "lang": "TypeScript",
     "desc": "🔥 GitHub Streak Card – Track your coding journey in style! A powerful tool to showcase your GitHub streaks, contributio"
   },
@@ -30,9 +30,9 @@
     "desc": "OnePost is a Flutter app for preparing social posts, managing drafts, and organizing connected publishing accounts. The "
   },
   {
-    "name": "flutter-practice",
+    "name": "meeting-memory-agent",
     "stars": 0,
-    "lang": "Dart",
-    "desc": "Flutter Practice – A collection of Flutter projects and exercises to enhance mobile app development skills. This reposit"
+    "lang": "Python",
+    "desc": ""
   }
 ]
