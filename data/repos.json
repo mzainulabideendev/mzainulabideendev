@@ -1,15 +1,15 @@
 [
   {
+    "name": "Universal-AI-Prompt-Engineer",
+    "stars": 48,
+    "lang": "TypeScript",
+    "desc": "Turn rough prompts into professional, review-ready instructions for AI coding agents — without leaving VS Code."
+  },
+  {
     "name": "Universal-AI-Game-Studio",
     "stars": 48,
     "lang": "Python",
     "desc": "Universal AI Game Studio helps an AI coding agent work like a small game team: understand a game's requirements, inspect"
-  },
-  {
-    "name": "Universal-AI-Prompt-Engineer",
-    "stars": 47,
-    "lang": "TypeScript",
-    "desc": "Turn rough prompts into professional, review-ready instructions for AI coding agents — without leaving VS Code."
   },
   {
     "name": "GitHub-Streak-Card",
