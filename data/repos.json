@@ -1,13 +1,13 @@
 [
   {
     "name": "Universal-AI-Prompt-Engineer",
-    "stars": 47,
+    "stars": 48,
     "lang": "TypeScript",
     "desc": "Turn rough prompts into professional, review-ready instructions for AI coding agents — without leaving VS Code."
   },
   {
     "name": "Universal-AI-Game-Studio",
-    "stars": 47,
+    "stars": 46,
     "lang": "Python",
     "desc": "Universal AI Game Studio helps an AI coding agent work like a small game team: understand a game's requirements, inspect"
   },
@@ -30,9 +30,9 @@
     "desc": "OnePost is a Flutter app for preparing social posts, managing drafts, and organizing connected publishing accounts. The "
   },
   {
-    "name": "meeting-memory-agent",
+    "name": "Querly",
     "stars": 0,
     "lang": "Python",
-    "desc": ""
+    "desc": "Querly is a universal database query language designed to simplify database interactions. It aims to provide a unified s"
   }
 ]
