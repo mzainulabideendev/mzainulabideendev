@@ -1,7 +1,7 @@
 [
   {
     "name": "Universal-AI-Prompt-Engineer",
-    "stars": 48,
+    "stars": 50,
     "lang": "TypeScript",
     "desc": "Turn rough prompts into professional, review-ready instructions for AI coding agents — without leaving VS Code."
   },

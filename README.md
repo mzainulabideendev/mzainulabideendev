@@ -15,7 +15,7 @@
 
 | Project | What it does | Language | Stars |
 | --- | --- | --- | --- |
-| [**Universal-AI-Prompt-Engineer**](https://github.com/mzainulabideendev/Universal-AI-Prompt-Engineer) | Turn rough prompts into professional, review-ready instructions for AI coding agents — without leaving VS Code. | TypeScript | 48 |
+| [**Universal-AI-Prompt-Engineer**](https://github.com/mzainulabideendev/Universal-AI-Prompt-Engineer) | Turn rough prompts into professional, review-ready instructions for AI coding agents — without leaving VS Code. | TypeScript | 50 |
 | [**Universal-AI-Game-Studio**](https://github.com/mzainulabideendev/Universal-AI-Game-Studio) | Universal AI Game Studio helps an AI coding agent work like a small game team: understand a game's requirements, inspect | Python | 46 |
 | [**GitHub-Streak-Card**](https://github.com/mzainulabideendev/GitHub-Streak-Card) | 🔥 GitHub Streak Card – Track your coding journey in style! A powerful tool to showcase your GitHub streaks, contributio | TypeScript | 22 |
 | [**Retro-TV**](https://github.com/mzainulabideendev/Retro-TV) | Watch Classic Television — a nostalgic, CRT-styled Flutter app that brings back the feeling of tuning in to an old telev | Dart | 1 |
