@@ -1,7 +1,7 @@
 [
   {
     "name": "Universal-AI-Prompt-Engineer",
-    "stars": 53,
+    "stars": 54,
     "lang": "TypeScript",
     "desc": "Turn rough prompts into professional, review-ready instructions for AI coding agents — without leaving VS Code."
   },
@@ -18,6 +18,12 @@
     "desc": "🔥 GitHub Streak Card – Track your coding journey in style! A powerful tool to showcase your GitHub streaks, contributio"
   },
   {
+    "name": "Querly",
+    "stars": 1,
+    "lang": "Python",
+    "desc": "Querly is a universal database query language designed to simplify database interactions. It aims to provide a unified s"
+  },
+  {
     "name": "Retro-TV",
     "stars": 1,
     "lang": "Dart",
@@ -28,11 +34,5 @@
     "stars": 1,
     "lang": "Dart",
     "desc": "OnePost is a Flutter app for preparing social posts, managing drafts, and organizing connected publishing accounts. The "
-  },
-  {
-    "name": "Color_switcher",
-    "stars": 0,
-    "lang": "JavaScript",
-    "desc": "A simple and interactive color switcher built using HTML, CSS, and JavaScript."
   }
 ]
